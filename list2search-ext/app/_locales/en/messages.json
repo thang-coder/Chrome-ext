@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "list2search ext",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Convert select lists to search boxes",
+    "description": "The description of the application"
+  }
+}
